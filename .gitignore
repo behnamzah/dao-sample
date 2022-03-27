@@ -109,3 +109,4 @@ yarn.lock
 cache
 artifacts
 typechain-types
+deployments
