@@ -108,3 +108,4 @@ package-lock.json
 yarn.lock
 cache
 artifacts
+typechain-types
