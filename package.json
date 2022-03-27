@@ -1,0 +1,7 @@
+{
+  "name": "sample-dao",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "hardhat": "^2.9.2"
+  }
+}
